@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 王洪涛的博客
+email: wanghongtao007@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  王洪涛的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://wanghongtao007.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: wang hongtao
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: 
+weibo: 
+github: wanghongtao007
+instagram: 
+linkedin: 
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
@@ -26,12 +26,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: wanghongtao-zh
 
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: wanghongtao.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
